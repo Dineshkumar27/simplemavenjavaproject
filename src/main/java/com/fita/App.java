@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Continuous Integration is Success!!!" );
+        System.out.println( "Continuous Integration is Success2nd time !!!" );
     }
 }
